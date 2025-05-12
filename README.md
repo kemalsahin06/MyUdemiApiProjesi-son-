@@ -7,10 +7,10 @@
    - Entity Framework
    - Code First SQL Veritabanı Yönetimi
    - Identity
-    AutoMapper
-    Web API
-    View Component
-    View Model
-    Postman
-    Authentication
-    Authorization
+   - AutoMapper
+   - Web API
+   - View Component
+   - View Model
+   - Postman
+   - Authentication
+   - Authorization
